@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
 
-自动保持 GitHub 提交状态常绿。
+自动保持 GitHub 提交状态常绿。 
 
 > a commit a day keeps your girlfriend away.
 
@@ -32,7 +32,7 @@
 * * * * *
 ```
 
-每个时间字段的含义：
+每个时间字段的含义：aaaaatest
 
 |符号   | 描述        | 举例                                        |
 | ----- | -----------| -------------------------------------------|
